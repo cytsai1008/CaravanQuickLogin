@@ -1,2 +1,2 @@
 # CaravanQuickLogin
- A Utility to login to Caravan Easier
+ A tool to login to Caravan Storia easier
